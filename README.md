@@ -1,3 +1,3 @@
 # kalviumassignment
 
-This is a explanation of clinet-server model.
+This is a explanation of client-server model.
